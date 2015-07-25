@@ -1,5 +1,5 @@
 package vill.tictactoe;
-
+//vi long la
 public class MyThread implements Runnable {
 	private String youName;
 	
